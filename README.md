@@ -1,73 +1,67 @@
-# Welcome to your Lovable project
+# 🛍️ Shopping Website
 
-## Project info
+An elegant and responsive e-commerce platform where users can browse, filter, and purchase products online. Built with a focus on usability, performance, and a seamless shopping experience.
 
-**URL**: https://lovable.dev/projects/87239dde-8da3-47bf-84e5-44617c96ece6
+---
 
-## How can I edit this code?
+## 🚀 Features
 
-There are several ways of editing your application.
+### 🖥️ Pages
+- **Home**: Showcases featured products, popular categories, and promotional banners.
+- **Product List**: Displays all products with filter and sorting options.
+- **Product Details**: Detailed view of each product including images, descriptions, pricing, and reviews.
+- **Cart**: Manage selected items before checkout.
+- **Checkout**: Secure payment and shipping details.
+- **Contact**: Contact form and business information.
 
-**Use Lovable**
+### 🎨 Design
+- Clean and modern UI/UX.
+- Fully responsive layout for desktop and mobile.
+- Consistent branding across all pages.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/87239dde-8da3-47bf-84e5-44617c96ece6) and start prompting.
+### ⚙️ Functionality
+- Product search and category filters.
+- Cart management with item quantity updates and removal.
+- Integration with a secure payment gateway (e.g., Stripe, Razorpay).
+- Admin panel for product management (optional).
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🛠️ Tech Stack (Edit based on your stack)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **Frontend**: HTML5, CSS3, JavaScript / React / Next.js
+- **Backend**: Node.js / Express / Django / (or other)
+- **Database**: MongoDB / MySQL / Firebase
+- **Payment Integration**: Stripe / Razorpay / PayPal
+- **Authentication**: JWT / OAuth (if implemented)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 📸 Screenshots
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+> ![image](https://github.com/user-attachments/assets/d8adf940-c132-4179-9c63-43940e2533cd)
+>
+> ![image](https://github.com/user-attachments/assets/aea5a78e-7ea1-4b5c-b50d-43c5330dd564)
+>
+> ![image](https://github.com/user-attachments/assets/d1abb904-c7c0-4c46-bfc8-77812fb25dea)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+![image](https://github.com/user-attachments/assets/f875c745-9ff4-4620-8b14-eb56a87eea89)
 
-# Step 3: Install the necessary dependencies.
-npm i
+![image](https://github.com/user-attachments/assets/6f55dc3d-dc7a-40ec-a696-ae8befe2f425)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+![image](https://github.com/user-attachments/assets/4a27a2e8-3097-44c9-8172-813c7e95ac6b)
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
 
-**Use GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
 
-This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 🧠 How to Use
 
-Simply open [Lovable](https://lovable.dev/projects/87239dde-8da3-47bf-84e5-44617c96ece6) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes it is!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/shopping-website.git
+   cd shopping-website
